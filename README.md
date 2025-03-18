@@ -1,39 +1,24 @@
-<h1 align="center">Hi 👋, I'm Elvis</h1>
-<h3 align="center">A passionate backend developer from Cax</h3>
-
-
 ### 📌 Languages and Tools
 
 #### 🚀 Frontend
-- [Angular](https://angular.io)
-- [Vue.js](https://vuejs.org/)
-- [Flutter](https://flutter.dev)
+- ![Angular](https://angular.io/assets/images/logos/angular/angular.svg) **Angular**
+- ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) **Vue.js**
+- ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) **Flutter**
 
 #### ⚙️ Backend
-- [Node.js](https://nodejs.org)
-- [.NET](https://dotnet.microsoft.com/)
-- [Go](https://golang.org)
+- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) **Node.js**
+- ![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg) **.NET**
+- ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg) **Go**
 
 #### 🗄️ Bases de Datos
-- [MongoDB](https://www.mongodb.com/)
-- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)
-- [PostgreSQL](https://www.postgresql.org)
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) **MongoDB**
+- ![Microsoft SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg) **Microsoft SQL Server**
+- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) **PostgreSQL**
 
 #### 🔧 DevOps & CI/CD
-- [Docker](https://www.docker.com/)
-- [Jenkins](https://www.jenkins.io)
-- [Heroku](https://heroku.com)
+- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) **Docker**
+- ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg) **Jenkins**
+- ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) **Heroku**
 
 #### 🧪 Testing
-- [Cypress](https://www.cypress.io)
-- [Jest](https://jestjs.io)
-- [Mocha](https://mochajs.org)
-- [Selenium](https://www.selenium.dev)
-
-#### 🛠️ Herramientas & Otros
-- [Bash](https://www.gnu.org/software/bash/)
-- [Dart](https://dart.dev)
-- [Git](https://git-scm.com/)
-- [Hugo](https://gohugo.io/)
-- [Postman](https://postman.com)
-- [TypeScript](https://www.typescriptlang.org/)
+- ![Cypress](https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2
